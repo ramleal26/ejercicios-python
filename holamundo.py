@@ -1,3 +1,0 @@
-
-
-print("Me llamo Ramiro")
